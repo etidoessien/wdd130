@@ -134,7 +134,7 @@ nav a:hover {
 .adventures {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px,1fr));
-    gap: 1 rem;
+    gap: 1rem;
     margin: 50px 0;
     justify-items: center;
 }
