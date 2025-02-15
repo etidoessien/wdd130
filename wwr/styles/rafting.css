@@ -156,14 +156,14 @@ footer {
 
 figure:nth-last-of-type(odd) {
     background-color: var(--accent1-color);
-    color: blueviolet;
+    color: black;
     align-self: center;
 
 }
 
 figure:nth-last-of-type(even) {
     background-color: var(--accent2-color);
-    color: blueviolet;
+    color: black;
     align-self: center;
 }
 
